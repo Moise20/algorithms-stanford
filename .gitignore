@@ -1,0 +1,25 @@
+# --- Java ---
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
+
+# --- C# / .NET ---
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.iml
