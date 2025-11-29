@@ -58,3 +58,13 @@ public class Karatsuba {
  * x * y = ac * 10^(2m) + (ad + bc)*10^m + bd
  *
  */
+/*
+Compiler : javac src/divideandconquer/*.java
+java -cp src divideandconquer.Karatsuba
+java -cp src divideandconquer.MergeSort 
+
+ou 
+javac -d out src/divideandconquer/*.java 
+java -cp out divideandconquer.Karatsuba
+java -cp out divideandconquer.MergeSort
+*/
